@@ -39,7 +39,7 @@ All scripts can be run from the Matlab application. This is a general guide of w
 - **SOR.m:** a more computationally efficient solution of Laplace's equation using Successive Over-Relaxation (SOR.m)
 
 ## Final Comments
-For a more in-depth analysis of these numerical methods, have a look at ProjectReport.pdf, which details our findings along this exciting project for ELEC95018 Mathematics 2C: Numerical Analysis, completed alongside George Chen, Archibald Crichton, Karl K Melaimi, Samuel Sim, and Stacey Wu. 
+For a more in-depth analysis of these numerical methods, have a look at ProjectReport.pdf, which details our findings along this exciting project defined in spec.pdf for ELEC95018 Mathematics 2C: Numerical Analysis, completed alongside George Chen, Archibald Crichton, Karl K Melaimi, Samuel Sim, and Stacey Wu. 
 
 ----------------------------------------------------------------------------------------------------------------------------
 
