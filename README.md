@@ -2,10 +2,10 @@
 Solving ODEs and PDEs using numerical analysis in Matlab.
 
 <p align="center">
-  <img width=700 src="https://github.com/RaphaelBijaoui/images/blob/master/NMrelaxation.png">
+  <img width=550 src="https://github.com/RaphaelBijaoui/images/blob/master/NMrelaxation.png">
 </p>
 <p align="center">
-  <i>Solution of Laplace equation for boundary conditions u(0, y) = u(1, y) = y , for 0 < y < 1; u(x, 0) = u(x, 1) = x , for 0 < x < 1;</i>
+  <i><b>Figure:</b> Solution of Laplace equation for boundary conditions u(0, y) = u(1, y) = y , for 0 < y < 1; u(x, 0) = u(x, 1) = x , for 0 < x < 1;</i>
 </p>
 
 As defined in spec.pdf, as part of ELEC95018 Mathematics 2C: Numerical Analysis, we were tasked to work on five different exercises, focusing on the numerical analysis of ordinary and partial differential equations with the help of MATLAB. 
