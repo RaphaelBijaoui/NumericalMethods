@@ -26,8 +26,10 @@ git clone https://github.com/RaphaelBijaoui/NumericalMethods.git
 ```
 Open Matlab and from there, open the folder you just downloaded.
 
-Now for the fun stuff!
+Now onto the fun stuff!
 
-###
+### Running Scripts
+
+
 
 Note: This project was the coursework component of course ELEC95018 Mathematics 2C: Numerical Analysis, completed alongside George Chen, Archibald Crichton, Karl K Melaimi, Samuel Sim, and Stacey Wu. 
