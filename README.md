@@ -2,7 +2,7 @@
 Solving ODEs and PDEs using numerical analysis in Matlab.
 
 <p align="center">
-  <img src="https://github.com/RaphaelBijaoui/images/blob/master/NMrelaxation.png">
+  <img width=400 src="https://github.com/RaphaelBijaoui/images/blob/master/NMrelaxation.png">
 </p>
 <p align="center">
   <i>Solution of Laplace equation for boundary conditions u(0, y) = u(1, y) = y , for 0 < y < 1; u(x, 0) = u(x, 1) = x , for 0 < x < 1;</i>
