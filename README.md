@@ -29,7 +29,8 @@ Open Matlab and from there, open the folder you just downloaded.
 Now onto the fun stuff!
 
 ### Running Scripts
-
-
+All scripts can be run from the Matlab application. This is a general guide of what each script does:
+**
+**RLC_script.m:** solves the ODE from an RLC circuit for a range of input functions. See Exercise 3 from spec.pdf for more.
 
 Note: This project was the coursework component of course ELEC95018 Mathematics 2C: Numerical Analysis, completed alongside George Chen, Archibald Crichton, Karl K Melaimi, Samuel Sim, and Stacey Wu. 
