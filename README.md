@@ -30,6 +30,7 @@ Now onto the fun stuff!
 
 ### Running Scripts
 All scripts can be run from the Matlab application. This is a general guide of what each script does:
+
 **RK.m:** a matlab function that implements Heun’s method, the midpoint method and a new method we devised.
 **RK2_script.m:** contain calls to the function RK.m, for a number of different examples, as outlined in spec.pdf page 2.
 **error_script.m:** error analysis for the solution of an RC circuit, basic case with R, C, qC(0) as above, with a cosine wave as input.
